@@ -3,7 +3,9 @@
 HappyWanke项目主要用于自动播放玩课网的课程视频。
 ## 使用方法
 Windows用户可直接下载HappyWanke2.exe。也可安装pywin32及pyHook依赖后通过python运行HappyWanke2.py。<br>
-macOS用户可安装Quartz及AppKit依赖后通过python运行HappyWanke2.py。Linux用户可安装Xlib(python-xlib)依赖后通过python运行HappyWanke2.py。*macOS及Linux系统未进行测试。*
+macOS用户可安装Quartz及AppKit依赖后通过python运行HappyWanke2.py。<br>
+Linux用户可安装Xlib(python-xlib)依赖后通过python运行HappyWanke2.py。<br>
+*macOS及Linux系统未进行测试。*
 ### 第一步 确定按钮位置
 程序运行后首先需要确定“下一节”按钮、播放速度调整按钮、二倍速播放按钮的位置。<br>
 ![按钮位置指示](https://github.com/ztjryg4/HappyWanke/raw/master/image/introduction.png)
@@ -17,7 +19,7 @@ macOS用户可安装Quartz及AppKit依赖后通过python运行HappyWanke2.py。L
 ### 第三步
 没有第三步了，把玩课交给HappyWanke吧。
 ## 说明
-HappyWanke及程序作者不鼓励使用HappyWanke逃避学习任务的行为。
+**HappyWanke及程序作者不鼓励使用HappyWanke逃避学习任务的行为。**
 ## 捐助
 欢迎通过领取支付宝花呗红包或请我吃鸡排的方式支持HappyWanke。
 ![捐助](https://github.com/ztjryg4/HappyWanke/raw/master/image/donate.png)
