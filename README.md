@@ -1,6 +1,7 @@
 # HappyWanke
 ## 概要
-HappyWanke项目主要用于自动播放玩课网的课程视频。
+HappyWanke项目主要用于自动播放玩课网的课程视频。  
+**本项目的实现方式为鼠标模拟点击。未来计划通过js脚本的方式更优雅地实现相同功能。**
 ## 使用方法
 Windows用户可直接下载HappyWanke2.exe。也可安装pywin32及pyHook依赖后通过python运行HappyWanke2.py。<br>
 macOS用户可安装Quartz及AppKit依赖后通过python运行HappyWanke2.py。<br>
